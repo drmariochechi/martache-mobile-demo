@@ -1,0 +1,24 @@
+MARTACHE MOBILE - PROTOTIPO GRATUITO
+===================================
+
+Pacote independente feito com HTML, CSS e JavaScript. Não usa Lovable, Replit, banco de dados, API ou serviços pagos. Todos os dados são fictícios. Nenhuma cobrança é gravada ou enviada.
+
+TESTAR NO COMPUTADOR
+1. Extraia o ZIP.
+2. Abra index.html no navegador para testar a navegação.
+
+TESTAR NO IPHONE
+Para adicionar à Tela de Início, o projeto precisa estar em um endereço HTTPS. Uma opção gratuita é GitHub Pages:
+1. Crie uma conta gratuita em github.com, se ainda não tiver.
+2. Crie um repositório público chamado martache-mobile-demo.
+3. Envie todos os arquivos desta pasta para a raiz do repositório.
+4. Abra Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch.
+6. Selecione a branch main e a pasta /(root), depois Save.
+7. Aguarde a publicação e copie o endereço HTTPS fornecido pelo GitHub.
+8. No iPhone, abra o endereço no Safari > Compartilhar > Adicionar à Tela de Início.
+
+IMPORTANTE
+- O protótipo é isolado e não se conecta ao Sistema Martache Windows.
+- Não use dados reais de moradores, unidades ou finanças nesta demonstração.
+- GitHub Pages pode ser usado gratuitamente em repositório público.
